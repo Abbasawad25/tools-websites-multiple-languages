@@ -1,7 +1,6 @@
-# tools-websites-multiple-languages
-# tools-websites-multiple-languages
-# tools-websites-multiple-languages
-أداة ريكس
+# tools websites multiple languages
+#سكربت ريكس
+
 عبارة عن اضافة تمكنك من إنشاء موقع متعدد اللغات
 حيث يمكن اضافة اكثر من لغة الي موقعك مثلا اللغة  العربية او الانجليزية و التركية وغيرها من اللغات 
 الأضافة مميزة و  سهلة وبسيطة مطورة بلغة php

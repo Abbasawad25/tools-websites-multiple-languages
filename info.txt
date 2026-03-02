@@ -1,0 +1,45 @@
+اداة تستخدم في انشاء موقع متعدد  اللغات
+كيفية الاستهدام
+ادرج في صفحة الموقع الاداة
+session_start();
+،وبعدها اكتب هذا الكود
+include("./languages/langConfig.php");
+لاضافة لغات او تعديلها
+ادخل ملف languages 
+مثلا ادخل ملف
+ar.php
+en.pho
+لاضافة لغة ادخل ملف
+langcConfig
+اتبع المعاير
+للمزيد من المعلومات
++249998812457
+facebook
+abbasawad26
+YouTube
+abbasawad25
+
+/////////// tools website multiple languages ///////
+@@@@@@@script tools
+*######### about
+##########
+@@@@@@@@ about me
+github
+https://github.com/Abbasawad25
+ faecbook 
+https://www.facebook.com/abbasawad26
+https://www.facebook.com/abbasawad24
+youtube
+https://youtube.com/@abbasawad?si=dyfkjbAiUOqsvJMn
+
+Twitter
+https://twitter.com/abbasawad26
+https://twitter.com/abbasawad25
+your web site
+https://abbasawad25.epizy.com/abbasawad26
+and
+join from group on faecbook
+رابط مجموعة مليون مبرمج سوداني https://facebook.com/groups/milliosudaneseprogrammer/
+
+
+

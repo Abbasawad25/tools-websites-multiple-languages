@@ -9,7 +9,7 @@
 
 */
 $apiKey = 'api-key'; //enter your api 
-$apiUrl = 'url';
+$apiUrl = 'https://moradfzone.kesug.com/api/translate.php';
 
 
 if(isset($_GET['b'])) {

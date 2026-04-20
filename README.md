@@ -1,11 +1,5 @@
 # سكربت ريكس — إضافة دعم مواقع متعددة اللغات
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/361c0010-1c23-4afc-9943-3305897d0be4" width="400">
-  <img src="https://github.com/user-attachments/assets/51f243ab-06b2-44b5-96b4-bdd93c16c9e6" width="400">
-  <img src="https://github.com/user-attachments/assets/eb89b622-5569-4e77-bd01-ff20aeea199e" width="400">
-</p>
-
 ## مقدمة
 
 **سكربت ريكس** هو إضافة بلغة PHP تتيح لك بناء مواقع إلكترونية متعددة اللغات بسهولة ومرونة، وتأتي الآن مع خدمة قوية لترجمة الملفات تلقائياً عبر واجهة الموقع الخاصة (File Translator).
@@ -142,6 +136,12 @@
 <a href="?lang=en">English</a> | <a href="?lang=ar">العربية</a>
 ```
 > سيعرض العنوان بلغة المستخدم تلقائياً حسب اختياره.
+> <p align="center">
+  <img src="https://github.com/user-attachments/assets/361c0010-1c23-4afc-9943-3305897d0be4" width="400">
+  <img src="https://github.com/user-attachments/assets/51f243ab-06b2-44b5-96b4-bdd93c16c9e6" width="400">
+  <img src="https://github.com/user-attachments/assets/eb89b622-5569-4e77-bd01-ff20aeea199e" width="400">
+</p>
+
 
 ---
 
